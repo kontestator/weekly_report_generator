@@ -6,10 +6,10 @@
   "scripts": {
 	  "start": "node parser.js"
   },
+  "type": "module",
   "dependencies": {
     "ical": "^0.8.0",
     "lodash": "^4.17.21"
   },
   "author": "kontestator",
   "license": "ISC"
-

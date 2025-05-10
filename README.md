@@ -1,6 +1,6 @@
-#Weekly report generator
+# Weekly report generator
 
-###Description
+### Description
 
 A web application that will save you from the weekly
 routine. Just download your Google calendar in .ics format

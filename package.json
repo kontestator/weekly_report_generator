@@ -1,5 +1,15 @@
 {
+  "name": "weekly_report_generator",
+  "version": "1.0.0",
+  "description": "Make writing weekly reports easier by downloading data from your calendar and analyzing it automatically",
+  "main": "parser.js",
+  "scripts": {
+	  "start": "node parser.js"
+  },
   "dependencies": {
+    "ical": "^0.8.0",
     "lodash": "^4.17.21"
-  }
-}
+  },
+  "author": "kontestator",
+  "license": "ISC"
+
